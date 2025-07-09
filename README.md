@@ -22,6 +22,21 @@ This project showcases a comprehensive sales dashboard and analysis toolkit buil
 
 [View the project file](https://github.com/JoeSightAnalytics/Sales-Performance-Dashboard-/blob/main/Sales%20Performance%20Analysis%20Project.xlsx)
 
+
+### 2. SuperStore Sales Dashboard Project
+
+This project demonstrates a robust sales analytics dashboard developed in Excel, tailored to provide actionable insights for retail or business sales data. The dashboard is ideal for monitoring performance, uncovering trends, and supporting strategic decisions.
+
+#### Key Features
+
+- **Data Preparation:** Efficient import, cleaning, and structuring of sales data suitable for analysis.
+- **Interactive Dashboards:** Dynamic charts, KPIs, and pivot tables to visualize sales performance, product trends, and regional outcomes.
+- **KPI Tracking:** Automatic calculation and display of essential business metrics such as total sales, profit, growth rates, and top performers.
+- **Custom Filtering:** Intuitive slicers and filters allow users to analyze data by time period, region, category, and other dimensions.
+- **Professional Reporting:** Generate presentation-ready reports and exportable summaries for business meetings or reviews.
+
+[→ View the dashboard file in this repository](./SuperStore-Sales-Dashboard.xlsx)
+
 ---
 
 ## About
